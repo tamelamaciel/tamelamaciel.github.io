@@ -5,11 +5,11 @@
 ### Data Visualisation, Web Scraping and Analysis with Python
 
 [UK Railway Value for Money](/railway_journeys)
-<img src="images/Cambridge Rail Value.png?raw=true" width="200"/>
+<img src="images/Cambridge Rail Value.png?raw=true" width="400"/>
 
 ---
 [Virtual Running Relays](/virtual_running_relays)
-<img src="images/map1.png?raw=true" width="200"/>
+<img src="images/map1.png?raw=true" width="400"/>
 
 <!--
 ---
