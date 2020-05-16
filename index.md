@@ -9,7 +9,7 @@
 
 ---
 [Virtual Running Relays](/virtual_running_relays)
-<img src="images/images/Screenshot 2020-05-11 at 11.58.44.png?raw=true" width="200"/>
+<img src="images/map1.png?raw=true" width="200"/>
 
 <!--
 ---
