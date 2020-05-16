@@ -5,11 +5,11 @@
 ### Data Visualation, Web Scraping and Analysis with Python
 
 [UK Railway Value for Money](/railway_journeys)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Cambridge Rail Value.png?raw=true"/>
 
----
+<!-----
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 <!--
 ---
