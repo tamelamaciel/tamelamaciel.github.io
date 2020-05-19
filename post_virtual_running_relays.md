@@ -19,4 +19,7 @@ Various statistical plots are created, along with a heat map of routes, drawn fr
 
 Interactive map is available online via GitHub pages: [Virtual Running Relays map](https://tamelamaciel.github.io/virtual_running_relays/)
 
-{% include map_WER_vs_WDAC.html %}
+
+{% raw %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="_includes/map_WER_vs_WDAC.html"></iframe>
+{% endraw %}
