@@ -30,6 +30,6 @@ Gpxpy and Folium are used to create a heat map of routes, drawn from individual 
 ![alt text](https://raw.githubusercontent.com/tamelamaciel/virtual_running_relays/master/map1.png "West End vs WDAC")
 
 
-Zoomable map here: [Map of West End vs WDAC routes](_includes/map_WER_vs_WDAC.html)
+{% include map_WER_vs_WDAC.html %}
 
 For more details and code, see the [GitHub repository](https://github.com/tamelamaciel/virtual_running_relays).
