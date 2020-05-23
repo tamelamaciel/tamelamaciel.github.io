@@ -25,9 +25,7 @@ And this boxplot showing the variation of individual runner mileage between each
 
 ![alt text](https://raw.githubusercontent.com/tamelamaciel/virtual_running_relays/master/boxplot_mileage_variationWER_WDAC.png "West End vs WDAC")
 
-Gpxpy and Folium are used to create a heat map of routes, drawn from individual gpx files and coloured by club. Screenshot here:
-
-![alt text](https://raw.githubusercontent.com/tamelamaciel/virtual_running_relays/master/map1.png "West End vs WDAC")
+Gpxpy and Folium are used to create a heat map of routes, drawn from individual gpx files and coloured by club:
 
 {% raw %}
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
