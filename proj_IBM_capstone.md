@@ -11,7 +11,7 @@ It uses Irish census data (from the CSO data portal), the Foursquare API, Beauti
 
 The project consists of:  
 * A [jupyter notebook](https://github.com/tamelamaciel/capstone-IBM-Data-Science/blob/master/Capstone%20Project%20-%20IBM%20Data%20Science%20course.ipynb) for analysis, clustering, and mapping
-* A [17-page report](https://github.com/tamelamaciel/capstone-IBM-Data-Science/blob/master/report/report.pdf) of the methodolgy and key findings
+* A [17-page report](/pdf/presentation.pdf) of the methodology and key findings
 * A [presentation](https://github.com/tamelamaciel/capstone-IBM-Data-Science/blob/master/presentation/presentation.pdf) for the stakeholders
 
 ![alt text](https://raw.githubusercontent.com/tamelamaciel/capstone-IBM-Data-Science/master/report/images/Indian_Spices.jpg "indian spices")
