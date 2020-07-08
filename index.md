@@ -1,11 +1,11 @@
 ## Portfolio
 
 ---
-### IBM Data Science capstone project - k-means clustering and Foursquare location data
-[Where to open an Indian restaurant in Ireland](proj_IBM_capstone)
+### IBM Data Science capstone project - k-means clustering and Foursquare location data:
+[Where to open an Indian restaurant in Ireland?](proj_IBM_capstone)
 <img src="/images/final_cluster_map_inset.png?raw=true" width="400"/>
 
-### Data Visualisation, Web Scraping and Analysis with Python
+### Data Visualisation, Web Scraping and Analysis with Python:
 
 [UK Railway Value for Money](proj_uk_railway_journeys)
 <img src="/images/Cambridge Rail Value.png?raw=true" width="400"/>
