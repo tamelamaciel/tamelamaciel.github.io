@@ -5,12 +5,15 @@
 [Where to open an Indian restaurant in Ireland?](proj_IBM_capstone)
 <img src="/images/final_cluster_map_inset.png?raw=true" width="400"/>
 
+[Clusters of Toronto neighbourhoods](proj_toronto_neighbourhoods)
+<img src="/images/toronto neighbourhood clusters.png?raw=true" width="400"/>
+
 ### Data Visualisation, Web Scraping and Analysis with Python:
 
 [UK Railway Value for Money](proj_uk_railway_journeys)
 <img src="/images/Cambridge Rail Value.png?raw=true" width="400"/>
 
----
+
 [Virtual Running Relays](proj_virtual_running_relays)
 <img src="/images/map1.png?raw=true" width="400"/>
 
