@@ -5,7 +5,7 @@ By Tamela Maciel, June 2020
 
 ABOUT:
 
-This capstone project completed my [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/c8c31d0a-d9d9-447c-bd4f-83859df6a4f1/linked_in_profile) through Coursera.
+This capstone project completed my [IBM Data Science Professional Certificate](https://coursera.org/share/1527bf7c7682ec298883b320c2ad80c2) through Coursera.
 
 It uses Irish census data (from the CSO data portal), the Foursquare API, BeautifulSoup for webscraping, k-Means clustering from scikit-learn, and various python libraries to clean, wrangle, and analyse the data.
 
