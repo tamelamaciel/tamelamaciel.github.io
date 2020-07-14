@@ -17,6 +17,11 @@
 [Virtual Running Relays](proj_virtual_running_relays)
 <img src="/images/map1.png?raw=true" width="400"/>
 
+### Image processing and analysis:
+[An automated ruler for radio galaxy jets](proj_radio_source_ruler)
+<img src="/images/radio source thumbnail.png?raw=true" width="400"/>
+
+
 <!--
 ---
 [Project 3 Title](http://example.com/)
