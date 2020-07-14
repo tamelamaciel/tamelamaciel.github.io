@@ -1,5 +1,5 @@
 
-**Coursera IBM Data Science Capstone Project**  
+**Clusters of Toronto Neighbourhoods**  
 *What are the characteristics of different neighbourhoods in the city of Toronto? Where are the cafes and fast food venues compared to the hotels and restaurants?*  
 
 By Tamela Maciel, June 2020  
